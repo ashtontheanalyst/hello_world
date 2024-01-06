@@ -1,8 +1,12 @@
-# hello_world
-This is a regular line of words, aka my name is Ashton. I go to **Texas A&M** and I study *Economics*.
+# About Me
+I'm a Junior at **Texas A&M** Studying *Economics* with a minor in *Cybersecurity*.
+I'm a member of the Corps of Cadets, TAMU Cyber Club, Army ROTC, and CLDP.
 
 I have some different skills:
-1. Excel
+1. Python
 2. SQL
-3. Python
-4. Tableau
+3. Machine Learning
+4. Linux and Bash (Kali Linux VM)
+5. Cybersecurity Fundementals
+6. Common Vulnerabilities and Exploits
+7. Basic Pentesting (OverTheWire and TryHackMe)
